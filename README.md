@@ -1,9 +1,9 @@
 # agilelab-test
 
-1. Anagram Tester
+##1. Anagram Tester
 Can find it in the anagram.rb
 
-2. Anonymous Chat
+##2. Anonymous Chat
 ```
   # I will split 2 roles : users and admin, so we need to create 2 tables admin and user to handle it.
   Rails.application.routes.draw do
@@ -31,7 +31,7 @@ Can find it in the anagram.rb
   end
 ```
 
-3. Bug Fixing
+##3. Bug Fixing
   Step 1: What exactly is the problem?
 - If Im talking to someone or email with them, I listen and read carefully what he/she describes this issue. When they are done, ask them some yes/no questions or can be answered quantifiably ( How many times did it happen?). It makes clearly and reduce ambiguous responses.
 - The key word is to find out the "who, what and happen" of the problem and staking the impact areas of this issue. Does it affect to one or many people? Are they use the old PC or operator? ...
@@ -55,7 +55,7 @@ Step 4: Attempt a fix based on findings
 
 - No matter what the underlying tech problems are the process outlined above works well for gathering info, identifying possible causes of the issue, and getting to a solution no matter what issue you’re dealing with. But you’ll still have to make judgment calls depending on each unique case. And to be avoid proactive in avoiding future crises.
 
-4. Taking over an old project
+##4. Taking over an old project
 
 - Ask for Documentation: It’s imperative that you ask for comprehensive code documents related to the project. What did you have or lack of something? You have to stress the importance of this information as it can be the difference between seamlessly navigating through modules or spending countless hours trying to decipher what is already been done.
 
